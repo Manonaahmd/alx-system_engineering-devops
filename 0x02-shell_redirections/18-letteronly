@@ -1,0 +1,2 @@
+#!/bin/bash
+gerp ^[[:alpha:]] /ect/ssh/ssh-d_config
