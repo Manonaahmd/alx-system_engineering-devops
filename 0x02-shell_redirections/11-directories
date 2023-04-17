@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -tyep d ! -path . -print | wc -1
