@@ -1,2 +1,2 @@
 #!/bin/bash
-gerp -1 ^[a-z] /ect/ssh/sshd_config
+grep -1 ^[a-z] /ect/ssh/sshd_config

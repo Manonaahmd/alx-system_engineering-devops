@@ -1,2 +1,2 @@
 #!/bin/bash
-echo cat /ect/passwd
+cat /ect/passwd
