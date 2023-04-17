@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -1 ^[a-z] /ect/ssh/sshd_config
+grep  '^[[:alpha:]]' /ect/ssh/sshd_config
