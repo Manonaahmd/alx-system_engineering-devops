@@ -1,2 +1,2 @@
-#!/bin/bash
-IFS=':'read-ra DIRS <<<"$path" echo"$count"
+#!/bin/bash 
+echo $PATH|tr':'\n'|wc-|
